@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS
 
 # How to run?
@@ -6,7 +7,7 @@
 Clone the repository
 
 ```bash
-git clonehttps://github.com/entbappy/Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS.git
+git clone https://github.com/sudhirmahaseth/Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -128,3 +129,6 @@ open up localhost:
    - ECR_REPO
    - PINECONE_API_KEY
    - OPENAI_API_KEY
+=======
+# Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS
+>>>>>>> 8fc142c9823d672b24a3e39967971864f1f4c788
